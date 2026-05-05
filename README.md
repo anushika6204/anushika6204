@@ -34,7 +34,7 @@ support data - driven decision making.
 
 ## 📁 Projects
 
-### 🏭 Vendor Performance Dashboard
+### 🏭 Vendor Performance Analysis Dashboard
 
 - Cleaned and processed **10,000+ rows** of raw vendor data using Python and SQL,
   reducing data inconsistencies by ~30%.
