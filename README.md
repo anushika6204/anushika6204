@@ -30,11 +30,44 @@ support data - driven decision making.
 
 ## 📂 Featured Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| 🏭 Vendor Performance Dashboard | Python · SQL · Power BI | Cleaned 10K+ rows, built 8-KPI interactive dashboard |
-| 🤖 Voice Assistant (JARVIS) | Python · OpenAI GPT-3.5 | Voice-controlled assistant with ~92% accuracy |
-| 🎵 Music Store Data Analysis | PostgreSQL · SQL | 20+ complex queries on 3,500+ records |
+---
+
+## 📁 Projects
+
+### 🏭 Vendor Performance Dashboard
+
+- Cleaned and processed **10,000+ rows** of raw vendor data using Python and SQL,
+  reducing data inconsistencies by ~30%.
+- Performed end-to-end EDA to identify key performance trends across **15+ vendors**.
+- Built an interactive **Power BI dashboard** with 8 KPI visuals, enabling management
+  to cut vendor review time by **40%**.
+- Generated actionable insights that improved vendor on-time delivery tracking by **25%**.
+
+🔗 Project Repository: https://github.com/anushika6204/vendor-performance-dashboard
+
+
+### 🎵 Music Store Data Analysis
+
+- Analyzed a music store's relational database (**11 tables, 3,500+ records**)
+  to identify top-performing artists and popular genres.
+- Developed **20+ complex SQL queries** (CTEs, window functions, subqueries)
+  to extract multi-level business insights.
+- Examined the dataset to help the store understand its business growth
+  by answering key business questions.
+
+🔗 Project Repository: https://github.com/anushika6204/music-store-sql-analysis
+
+
+### 🤖 Voice-Activated Virtual Assistant (JARVIS)
+
+- Developed a voice-controlled assistant using Python that executes
+  **10+ system and web commands** via speech recognition.
+- Integrated **OpenAI GPT-3.5** for intelligent query responses;
+  achieved ~**92% command recognition accuracy**.
+- Implemented features: web browsing, music control,
+  live news fetch, and datetime queries.
+
+🔗 Project Repository: https://github.com/anushika6204/voice-assistant-jarvis
 
 ## 🏆 Certifications
 
