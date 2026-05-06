@@ -30,15 +30,6 @@ support data - driven decision making.
 
 ## 📂 Featured Projects
 
----
-
-## 📁 Projects
-
----
-
-## 📁 Projects
-
-
 ### 🏭 Vendor Performance Dashboard
 
 - Cleaned and processed **10,000+ rows** of raw vendor data
@@ -49,7 +40,6 @@ support data - driven decision making.
 - Improved on-time delivery tracking by **25%**
 
 🔗 [Project Repository](https://github.com/anushika6204/-vendor-performance-analysis-Dashboard)
--
 
 ### 🎵 Music Store Data Analysis
 
@@ -59,7 +49,6 @@ support data - driven decision making.
 - Identified top artists, genres & business growth patterns
 
 🔗 [Project Repository](https://github.com/anushika6204/music-store-sql-analysis)
-
 
 ### 🤖 Voice Assistant JARVIS
 
