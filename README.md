@@ -62,11 +62,13 @@ support data - driven decision making.
 
 ## 🏆 Certifications
 
+- ✅ Artificial Intelligence Fundamentals — IBM (2026)
+- ✅ Data Analysis with python — freeCodeCamp (2026)
 - ✅ Google Analytics Certification — Google (2025)
 - ✅ AI-Powered Performance Certificate — Google (2025)
-- ✅ Python for Data Science — IBM / Coursera (2025)
+- ✅ Python for Data Science — IBM (2025)
 
 ## 📫 Connect With Me
 
-. Linkedln:https://linkedin.com/in/anushika-parmar-28322b305
-. Email: anushikaparmar420@gmail.com
+- Linkedln:https://linkedin.com/in/anushika-parmar-28322b305
+- Email: anushikaparmar420@gmail.com
