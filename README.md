@@ -14,7 +14,7 @@ support data - driven decision making.
 - 🧠 Strong in analytical thinking, data cleaning & visual storytelling
 - 🏗️ Actively building projects to solve real business problems
 - 🤖 Exploring Machine Learning, Cloud Analytics & AI-powered tools
-- 🎓 B.Tech CSE | SIRT Bhopal | CGPA: 8.31 | Graduating June 2026
+- 🎓 B.Tech CSE | SIRT Bhopal | CGPA: 7.9 | Graduating June 2026
 
   ## 🛠️ Skills
 
@@ -26,7 +26,7 @@ support data - driven decision making.
 
 **Cloud & Tools:** Jupyter Notebook · GitHub · AWS · VS Code
 
-**Analytics:** Data Cleaning · EDA · Dashboard Development
+**Analytics:** Data Cleaning · EDA · Dashboard Development · Data preprocessing
 
 ## 📂 Featured Projects
 
@@ -61,7 +61,7 @@ support data - driven decision making.
 🔗 [Project Repository](https://github.com/anushika6204/voice-assistant-jarvis)
 
 ## 🏆 Certifications
-
+- ✅ AI fluency Framework & Foundation — Anthropic(2026)
 - ✅ Artificial Intelligence Fundamentals — IBM (2026)
 - ✅ Data Analysis with python — freeCodeCamp (2026)
 - ✅ Google Analytics Certification — Google (2025)
