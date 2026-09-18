@@ -100,5 +100,5 @@ CGPA: 7.9 | 2022 – 2026
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [linkedin.com/in/anushika-parmar-28322b305](https://linkedin.com/in/anushika-parmar-28322b305)
-- 📧 Email: anushikaparmar420@gmail.com
+- 📧 Email: parmaranushika@gmail.com
 - 📱 Phone: +91 9340526143
