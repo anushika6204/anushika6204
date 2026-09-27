@@ -1,6 +1,6 @@
 # Hi, I'm Anushika! 👋
 
-🎯 Aspiring Data Analyst | SQL · Python · Power BI · Advanced Excel · Tableau
+Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau
 📊 Passionate about turning raw data into actionable insights
 📍 Bhopal, India
 
@@ -85,15 +85,6 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 Sagar Institute of Research and Technology (SIRT), Bhopal, India
 CGPA: 7.9 | 2022 – 2026
 *Relevant Coursework: DBMS, OOP, Operating Systems, Computer Networks, Machine Learning, DSA*
-
----
-
-## 🏆 Certifications
-
-- ✅ AI Fluency Framework & Foundation — Anthropic
-- ✅ Data Analysis with Python — freeCodeCamp
-- ✅ Artificial Intelligence Fundamentals — IBM
-- ✅ Deloitte Data Analytics Job Simulation — Forage
 
 ---
 
