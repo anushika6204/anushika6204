@@ -77,7 +77,38 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 - Wrote **20+ advanced SQL queries** (JOINs, CTEs, window functions, subqueries) to answer real-world business questions
 - Used playlist and sales analysis to identify key drivers of business growth for the store
 
----
+### 📊 HR Analytics Dashboard (Power BI)
+`Powe BI`
+## 🛠️ Tools & Technologies
+- **Power BI Desktop** – data modelling, DAX and visualisation
+- **Power Query** – data cleaning and transformation _(update if used)_
+- **DAX** – calculated columns and measures (e.g. Attrition Rate %)
+
+An interactive **Power BI** dashboard that analyses employee attrition and workforce demographics. It helps HR teams see who is leaving, from which departments and roles, and how factors like salary, age, gender, experience and job satisfaction relate to attrition.
+ 📈 KPIs
+The dashboard has six KPI cards at the top:
+
+| KPI | Description |
+|---|---|
+| **Total Employees** | Total number of employee records (by `EmpID`) |
+| **Active Employees** | Employees currently active (`EmployeeCount`) |
+| **Attrition Count** | Number of employees who left (`AttritionCount`) |
+| **Attrition Rate %** | Percentage of employees who left |
+| **Avg Age** | Average employee age |
+| **Avg Experience** | Average years at the company (`YearsatCompany`) |
+
+## 📊 Visualizations
+
+> **Dataset source:** _Add the source here (e.g. Kaggle / IBM HR Analytics dataset / company data)._
+
+## 💡 Key Insights
+> Replace these with your own findings once you've reviewed the dashboard.
+
+- Which department has the highest attrition?
+- Which salary slab loses the most employees?
+- Does low job satisfaction line up with higher attrition in certain roles?
+- At what experience level does attrition peak?
+- Is attrition higher in a particular age group or gender?
 
 ## 🎓 Education
 
@@ -92,4 +123,3 @@ CGPA: 7.9 | 2022 – 2026
 
 - 💼 LinkedIn: [linkedin.com/in/anushika-parmar-28322b305](https://linkedin.com/in/anushika-parmar-28322b305)
 - 📧 Email: parmaranushika@gmail.com
-- 📱 Phone: +91 9340526143
