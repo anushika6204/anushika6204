@@ -1,4 +1,4 @@
-# Hi, I'm Anushika! 👋
+# HEY, I'm Anushika! 👋
 
 Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau
 📊 Passionate about turning raw data into actionable insights
@@ -10,12 +10,12 @@ Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau
 
 I am an aspiring Data Analyst with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
 
-- 📈 Focused on Data Analysis, EDA & Dashboard Development
+- 📈 Focused on Python Development, Data Analytics, EDA & Dashboard Development
 - 🛠️ Hands-on experience with Python, SQL, Power BI, Excel & Tableau
-- 🧠 Strong in analytical thinking, data cleaning & visual storytelling
-- 📝 Actively building projects to solve real business problems
+- 🧠 Skilled in analytical thinking, data cleaning, Visualization & storytelling
+- 📝 Actively building projects to solve real business & Development problems
 - ☁️ Exploring Machine Learning, Cloud Analytics & AI-powered tools
-- 🎓 B.Tech CSE | SIRT Bhopal | CGPA: 7.9 | Graduating June 2026
+- 🎓 B.Tech CSE | SIRT Bhopal | CGPA: 7.9 | Graduating 2026
 
 ---
 
@@ -76,6 +76,7 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 - Analyzed a relational database containing **11 tables and 3,500+ records** to identify customer purchasing patterns and top-performing artists/genres
 - Wrote **20+ advanced SQL queries** (JOINs, CTEs, window functions, subqueries) to answer real-world business questions
 - Used playlist and sales analysis to identify key drivers of business growth for the store
+---
 
 ### 📊 HR Analytics Dashboard (Power BI)
 `Powe BI`
@@ -87,20 +88,6 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 An interactive **Power BI** dashboard that analyses employee attrition and workforce demographics. It helps HR teams see who is leaving, from which departments and roles, and how factors like salary, age, gender, experience and job satisfaction relate to attrition.
  📈 KPIs
 The dashboard has six KPI cards at the top:
-
-| KPI | Description |
-|---|---|
-| **Total Employees** | Total number of employee records (by `EmpID`) |
-| **Active Employees** | Employees currently active (`EmployeeCount`) |
-| **Attrition Count** | Number of employees who left (`AttritionCount`) |
-| **Attrition Rate %** | Percentage of employees who left |
-| **Avg Age** | Average employee age |
-| **Avg Experience** | Average years at the company (`YearsatCompany`) |
-
-## 📊 Visualizations
-
-> **Dataset source:** _Add the source here (e.g. Kaggle / IBM HR Analytics dataset / company data)._
-
 ## 💡 Key Insights
 > Replace these with your own findings once you've reviewed the dashboard.
 
@@ -109,6 +96,7 @@ The dashboard has six KPI cards at the top:
 - Does low job satisfaction line up with higher attrition in certain roles?
 - At what experience level does attrition peak?
 - Is attrition higher in a particular age group or gender?
+---
 
 ## 🎓 Education
 
