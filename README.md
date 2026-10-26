@@ -1,6 +1,6 @@
 # HEY, I'm Anushika! 👋
 
-Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau
+Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau · Data Science
 📊 Passionate about turning raw data into actionable insights
 📍 Bhopal, India
 
@@ -19,19 +19,21 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 
 ---
 
-## 🧰 Skills
+### 🛠️ Technical Skills
 
-**Languages:** Python · SQL (PostgreSQL, MySQL)
+**Programming:** `Python` · `SQL`
 
-**Python Development:** Pandas · NumPy · Scikit-learn · File Handling · Exception Handling · Automation Scripting · API Integration
+**Libraries:** `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Seaborn`
 
-**BI & Visualization:** Power BI (Power Query, DAX) · Tableau · MS Excel (Advanced) · Matplotlib
+**Data Analytics & ML:** Data Cleaning · Data Processing · Exploratory Data Analysis (EDA) · ETL · Data Visualization · KPI Reporting · Data Modeling · Machine Learning (Classification)
 
-**Data Analytics:** Data Cleaning · Data Processing · EDA · ETL · Data Visualization · Dashboard Development · Data Modeling · KPI Reporting
+**BI & Visualization:** `Power BI` (Power Query, DAX) · `Tableau` · `Advanced Excel`
 
-**Tools:** Jupyter Notebook · GitHub · VS Code
+**Databases:** `PostgreSQL` · `MySQL`
 
-**Databases:** PostgreSQL · MySQL · Snowflake (Basic)
+**Development & Tools:** `Jupyter Notebook` · `VS Code` · `GitHub` · API Integration · File Handling · Exception Handling · Automation Scripting
+
+**CS Fundamentals:** DBMS · Object-Oriented Programming (OOP) · Operating Systems · Computer Networks
 
 **Soft Skills:** Problem-Solving · Analytical Thinking · Communication · Presentation · Time Management
 
@@ -48,6 +50,17 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 - Identified **$2.71M** in unsold inventory capital and flagged **5 low-performing vendors** (rating below 0.8), enabling data-driven vendor renegotiation and inventory optimization
 
 ---
+### 🛡️ Credit Card Fraud Detection
+
+`Python (Pandas, Scikit-learn)` · `XGBoost` · `SQL (SQLite)` · `SHAP`
+
+- Cleaned 284,807 transactions by removing 1,081 exact duplicates to prevent train/test leakage, leaving 283,726 rows with only 0.17% fraud
+- Wrote SQL queries using CTEs and window functions, and performed EDA to uncover fraud patterns by amount band and hour, finding the highest fraud rate (0.39%) in transactions under 1 unit
+- Compared 9 models (Logistic Regression, Random Forest, XGBoost, Neural Network) with SMOTE, undersampling, and class weights using 5-fold CV on AUC-PR; selected XGBoost (CV AUC-PR 0.85) and found resampling did not improve ranking quality
+- Tuned the alert threshold on out-of-fold predictions and evaluated once on the test set: AUC-PR 0.83 (95% CI 0.77-0.90), 0.95 precision / 0.77 recall, catching 73 of 95 frauds with only 4 false alarms
+- Validated robustness with a chronological split (AUC-PR 0.79, recall 0.74) to simulate predicting future transactions
+- Used SHAP to identify `V14` and `V4` as the strongest fraud signals and translated results into business impact: ~74% of fraud value stopped, with a review-cost sensitivity analysis
+---
 
 ### 🛒 Zepto Inventory SQL Analysis
 `PostgreSQL` · `pgAdmin4` · `SQL`
@@ -57,17 +70,7 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 - Wrote business-driven SQL queries using `CASE` statements, `GROUP BY`, and aggregate functions to:
   - Classify products into **Low / Medium / Bulk** weight categories
   - Calculate **total inventory weight per category** for warehouse/logistics planning
-
----
-
-### 🎤 Voice-Activated Virtual Assistant (JARVIS)
-`Python` · `OpenAI API` · `SpeechRecognition` · `gTTS` · `REST APIs`
-
-- Developed **JARVIS**, a Python-based voice assistant capable of executing voice commands using speech recognition, real-time API integration, and text-to-speech synthesis
-- Integrated **OpenAI GPT-3.5 API** to handle open-ended queries via NLP, enabling conversational AI responses beyond predefined commands
-- Implemented core features including web navigation (Google, YouTube, LinkedIn), music playback, live weather updates (OpenWeatherMap API), real-time news headlines (NewsAPI), and a voice-activated calculator using SpeechRecognition, gTTS, and Pygame
-- Managed API credentials securely using environment variables (`.env`), avoiding hardcoded sensitive information in source code
-
+    
 ---
 
 ### 🎵 Music Store Relational Database Analysis
@@ -101,9 +104,9 @@ The dashboard has six KPI cards at the top:
 ## 🎓 Education
 
 **B.Tech, Computer Science & Engineering**
-Sagar Institute of Research and Technology (SIRT), Bhopal, India
+Sagar Institute of Research and Technology (SIRT), Bhopal
 CGPA: 7.9 | 2022 – 2026
-*Relevant Coursework: DBMS, OOP, Operating Systems, Computer Networks, Machine Learning, DSA*
+*Relevant Coursework: DBMS, OOP, Operating Systems, Computer Networks*
 
 ---
 
