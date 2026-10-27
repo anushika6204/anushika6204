@@ -1,11 +1,10 @@
 # HEY, I'm Anushika! 👋
 
-Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau · Data Science
+**Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau · Data Science
 📊 Passionate about turning raw data into actionable insights
 📍 Bhopal, India
 
 ---
-
 ## 🚀 About Me
 
 I am an aspiring Data Analyst with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
@@ -18,7 +17,6 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 - 🎓 B.Tech CSE | SIRT Bhopal | CGPA: 7.9 | Graduating 2026
 
 ---
-
 ### 🛠️ Technical Skills
 
 **Programming:** `Python` · `SQL`
@@ -91,15 +89,6 @@ I am an aspiring Data Analyst with a strong passion for digging into messy datas
 An interactive **Power BI** dashboard that analyses employee attrition and workforce demographics. It helps HR teams see who is leaving, from which departments and roles, and how factors like salary, age, gender, experience and job satisfaction relate to attrition.
  📈 KPIs
 The dashboard has six KPI cards at the top:
-## 💡 Key Insights
-> Replace these with your own findings once you've reviewed the dashboard.
-
-- Which department has the highest attrition?
-- Which salary slab loses the most employees?
-- Does low job satisfaction line up with higher attrition in certain roles?
-- At what experience level does attrition peak?
-- Is attrition higher in a particular age group or gender?
----
 
 ## 🎓 Education
 
