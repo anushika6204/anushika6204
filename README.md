@@ -7,7 +7,7 @@
 ---
 ## 🚀 About Me
 
-I am an Computer Science engineering graduate with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
+I am Computer Science engineering graduate with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
 
 - 📈 Focused on Python Development, Data Analytics, EDA & Dashboard Development
 - 🛠️ Hands-on experience with Python, SQL, Power BI, Excel & Tableau
