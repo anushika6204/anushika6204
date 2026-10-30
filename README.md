@@ -1,5 +1,4 @@
-# HEY, 
-I'm Anushika! 👋
+# Hey, I'm Anushika!🙋‍♀️
 
 **Data Analytics | · Data Science · Python · SQL  · Power BI · Advanced Excel · Tableau 
 📊 Passionate about turning raw data into actionable insights
