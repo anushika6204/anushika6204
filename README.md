@@ -1,13 +1,14 @@
-# HEY, I'm Anushika! 👋
+# HEY, 
+I'm Anushika! 👋
 
-**Data Analytics | SQL · Python · Power BI · Advanced Excel · Tableau · Data Science
+**Data Analytics | · Data Science · Python · SQL  · Power BI · Advanced Excel · Tableau 
 📊 Passionate about turning raw data into actionable insights
 📍 Bhopal, India
 
 ---
 ## 🚀 About Me
 
-I am an aspiring Data Analyst with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
+I am an Computer Science engineering graduate with a strong passion for digging into messy datasets, finding hidden patterns, and turning numbers into stories — building dashboards and supporting data-driven decision making.
 
 - 📈 Focused on Python Development, Data Analytics, EDA & Dashboard Development
 - 🛠️ Hands-on experience with Python, SQL, Power BI, Excel & Tableau
